@@ -1,1 +1,1 @@
-Thi is Wayne Allens first GIT Project!!!
+This is Wayne Allens first GIT Project!!!
